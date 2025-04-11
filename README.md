@@ -3,12 +3,17 @@ Rick and Morty Application
 Packages: 
 
 bloc
+
 http
+
 get_it
+
 cached_network_image
 
 Testing:
+
 mocktail
+
 bloc test
 
 
