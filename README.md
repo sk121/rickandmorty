@@ -1,16 +1,19 @@
-# rick_and_morty_app
+Rick and Morty Application 
 
-A new Flutter project.
+Packages: 
 
-## Getting Started
+bloc
+http
+get_it
+cached_network_image
 
-This project is a starting point for a Flutter application.
+Testing:
+mocktail
+bloc test
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/536ad861-1939-4e53-bd4e-d6b2e432bf0e
+
+![Screenshot 2025-04-11 at 12 21 24](https://github.com/user-attachments/assets/87c8c795-40ad-4e9c-b114-70b2afae5211) 
+![Screenshot 2025-04-11 at 12 21 57](https://github.com/user-attachments/assets/a160b601-8fc0-4e88-ac39-24645d3aeec7)
